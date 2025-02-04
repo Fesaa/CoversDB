@@ -440,7 +440,7 @@ Pantheon|comics/Pantheon.png
 Papercutz|comics/Papercutz.png
 PaperStreet Comics|comics/PaperStreet Comics.png
 Paradox Press|comics/Paradox Press.png
-Penguin Books|comics/Penguin Books.png
+Penguin Books#Penguin Random House LLC|comics/Penguin Books.png
 Pika Édition|comics/Pika Édition.png
 Pipoca & Nanquim|comics/Pipoca & Nanquim.png
 Planeta Cómic|comics/Planeta Cómic.png
