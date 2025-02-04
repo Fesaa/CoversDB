@@ -332,7 +332,7 @@ Grind House Comics|comics/Grind House Comics.png
 Hachette|comics/Hachette.png
 Hakusensha|manga/Hakusensha.png
 Harper & Row|comics/Harper & Row.png
-Harpercollins|comics/Harpercollins.png
+Harpercollins#HarperCollinsPublishers#HarperCollins Publishers|comics/Harpercollins.png
 Harvey Pekar|comics/Harvey Pekar.png
 Harvey|comics/Harvey.png
 Heavy Metal Magazine|comics/Heavy Metal Magazine.png
