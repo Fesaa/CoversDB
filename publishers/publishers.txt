@@ -432,6 +432,7 @@ Oblivion Books|comics/Oblivion Books.png
 One Peace Books|comics/One Peace Books.png
 Oni Press|comics/Oni Press.png
 Oog & Blik|comics/Oog & Blik.png
+Orbit|books/Orbit.png
 Pacific Comics|comics/Pacific Comics.png
 Panini Comics|comics/Panini Comics.png
 Panini España|comics/Panini España.png
