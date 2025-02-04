@@ -493,6 +493,7 @@ Spire Christian Comics|comics/Spire Christian Comics.png
 Splitter|comics/Splitter.png
 Square Enix Manga & Books#Square Enix#Square Enix USA|comics/Square Enix Manga & Books.png
 St. John Publishing|comics/St. John Publishing.png
+St. Martin's Publishing Group/books/St. Martin's Publishing Group.png
 Standard|comics/Standard.png
 Star Comics|comics/Star Comics.png
 Star Publications|comics/Star Publications.png
