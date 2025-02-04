@@ -170,6 +170,7 @@ Blu Manga|comics/Blu Manga.png
 Blue King Studios|comics/Blue King Studios.png
 Bluewater Productions|comics/Bluewater Productions.png
 Bodog|comics/Bodog.png
+Bold Strokes Books|books/Bold Strokes Books.png
 Bomtoon|manga/bomtoon.png
 Bongo#Bongo Entertainment|comics/Bongo.png
 Bonnier Carlsen|comics/Bonnier Carlsen.png
