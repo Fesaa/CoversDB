@@ -170,7 +170,7 @@ Blu Manga|comics/Blu Manga.png
 Blue King Studios|comics/Blue King Studios.png
 Bluewater Productions|comics/Bluewater Productions.png
 Bodog|comics/Bodog.png
-Bold Strokes Books|books/Bold Strokes Books.png
+Bold Strokes Books|books/Bold Strokes Books.jpg
 Bomtoon|manga/bomtoon.png
 Bongo#Bongo Entertainment|comics/Bongo.png
 Bonnier Carlsen|comics/Bonnier Carlsen.png
@@ -455,6 +455,7 @@ Quality Communications|comics/Quality Communications.png
 Quality|comics/Quality.png
 Radical Publishing|comics/Radical Publishing.png
 Random House|comics/Random House.png
+Random House Children's Books|books/Random House Children's Books.jpg
 RAW Books & Graphics|comics/RAW Books & Graphics.png
 Razerbladeapple|comics/Razerbladeapple.png
 Rebellion|comics/Rebellion.png
